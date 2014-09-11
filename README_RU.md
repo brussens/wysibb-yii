@@ -6,7 +6,7 @@ WysiBB Widget это обёртка для [Wysibb](http://www.wysibb.com/) wysi
 ##Установка
 1. Скачать расширение.
 2. Распаковать расширение в папку "extension" вашего проекта.
-3. Insert the widget at the right position on the page using the following code: 
+3. Для вставки виджета используйте следующий код в нужном месте страницы: 
 ```php
 
 $this->widget('ext.wysibb-yii.WysiBBWidget',
